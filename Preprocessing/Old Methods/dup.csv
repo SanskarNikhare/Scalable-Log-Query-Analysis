@@ -1,0 +1,533 @@
+Level,Date and Time,Source,Event ID,Original Message
+Information,07-10-2024 12:23,TPM,17,The Trusted Platform Module (TPM) hardware failed to execute a TPM command 
+Information,07-10-2024 12:23,Service Control Manager,7040,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start 
+Warning,07-10-2024 12:23,Netwtw14,6062,"The description for Event ID 6062 from source Netwtw14 cannot be found  Either the component that raises this event is not installed on your local computer or the installation is corrupted  You can install or repair the component on the local computer 
+
+If the event originated on another computer, the display information had to be saved with the event 
+
+The following information was included with the event  
+
+ Device NDMP1
+Intel(R) Wi-Fi 6E AX211 160MHz
+
+The message resource is present but the message was not found in the message table
+"
+Information,07-10-2024 12:23,Microsoft-Windows-HttpService,113,"Attempted to add URL (http   127 0 0 1 24830 127 0 0 1 ) to URL group (0xFC0000032000000B)  Status  0x0  Process Id 0xA20C Executable path  Device HarddiskVolume3 Windows System32 DriverStore FileRepository asussci2 inf_amd64_a61e5ab0aed04d3c ASUSSoftwareManager AsusSupportService exe, User KRAZYPC Karthik Sundaram"
+Information,07-10-2024 12:23,Microsoft-Windows-HttpService,111,"Create URL group 0xFC0000032000000B  Status 0x0  Process Id 0xA20C Executable path  Device HarddiskVolume3 Windows System32 DriverStore FileRepository asussci2 inf_amd64_a61e5ab0aed04d3c ASUSSoftwareManager AsusSupportService exe, User KRAZYPC Karthik Sundaram"
+Warning,07-10-2024 12:23,Microsoft-Windows-DistributedCOM,10016,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable)  This security permission can be modified using the Component Services administrative tool "
+Information,07-10-2024 12:23,Microsoft-Windows-Winlogon,7001,User Logon Notification for Customer Experience Improvement Program
+Information,07-10-2024 12:19,Service Control Manager,7040,The start type of the McAfee Scheduled Task - (McAfee-Dynamicappdownloader) service was changed from demand start to disabled 
+Information,07-10-2024 12:19,Service Control Manager,7045,"A service was installed in the system 
+
+Service Name   McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name    C  Program Files McAfee wps 1 22 203 1 dad mc-dad exe 
+Service Type   user mode service
+Service Start Type   demand start
+Service Account   LocalSystem"
+Information,07-10-2024 12:18,nhi,9007,"The driver entered RTD3 
+ All the connected devices will be removed from driver s internal state, so it is expected that DeviceDisconnected events will happen "
+Information,07-10-2024 12:18,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 07T06 16 42 345322700Z
+Wake Time   2024 - 10 - 07T06 48 53 152654600Z
+
+Wake Source  Unknown"
+Information,07-10-2024 12:18,Microsoft-Windows-Kernel-Power,566,"The system session has transitioned from 62 to 64 
+
+Reason Unknown 
+
+BootId  98"
+Information,07-10-2024 12:18,Microsoft-Windows-Kernel-Power,507,"The system is exiting Modern Standby 
+
+Reason  Power Button "
+Information,07-10-2024 12:18,Microsoft-Windows-Kernel-Power,506,"The system is entering Modern Standby 
+
+Reason  Sleep, Hibernate, or Shutdown "
+Information,07-10-2024 12:18,Microsoft-Windows-Kernel-Boot,32,The bootmgr spent 0 ms waiting for user input 
+Information,07-10-2024 12:18,Microsoft-Windows-Kernel-Boot,18,There are 0x1 boot options on this system 
+Information,07-10-2024 12:18,Microsoft-Windows-Kernel-Boot,30,The firmware reported boot metrics 
+Error,07-10-2024 12:18,Microsoft-Windows-NDIS,10317,"Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {14fda119-c976-471e-a905-cf4cce91a52d}, had event Fatal error  The miniport has failed a power transition to operational power"
+Information,07-10-2024 12:18,Microsoft-Windows-Kernel-General,1,"The system time has changed to  2024 - 10 - 07T06 48 50 500000000Z from  2024 - 10 - 07T06 16 46 975474500Z 
+Time Delta  1923524 ms
+
+Change Reason  System time synchronized with the hardware clock 
+Process     (PID 4) 
+
+RTC time   2024 - 10 - 07T12 18 50 500000000Z
+Current time zone bias  -330
+RTC time is in UTC  false
+System time was based on RTC time  false"
+Information,07-10-2024 11:46,Microsoft-Windows-Kernel-Power,107,The system has resumed from sleep 
+Information,07-10-2024 12:18,EventLog,6013,The system uptime is 302274 seconds 
+Information,07-10-2024 11:46,Microsoft-Windows-Kernel-Power,42,"The system is entering sleep 
+
+Sleep Reason  Application API"
+Information,07-10-2024 11:46,nhi,9008,"Driver exit RTD3 
+ All the connected devices will now cause DeviceConnected events "
+Information,07-10-2024 11:46,Microsoft-Windows-Kernel-Power,566,"The system session has transitioned from 60 to 61 
+
+Reason PolicyChange 
+
+BootId  98"
+Information,07-10-2024 11:46,Microsoft-Windows-Kernel-Power,187,User-mode process attempted to change the system state by calling SetSuspendState or SetSystemPowerState APIs 
+Information,07-10-2024 11:46,Win32k,267,Touch Touchpad Hardware Quality Assurance verification succeeded 
+Information,07-10-2024 11:46,User32,1074,"The process Explorer EXE has initiated the power off of computer KRAZYPC on behalf of user KRAZYPC Karthik Sundaram for the following reason  Other (Unplanned)
+ Reason Code  0x0
+ Shutdown Type  power off
+ Comment  "
+Information,07-10-2024 11:37,Microsoft-Windows-Kernel-Power,507,"The system is exiting Modern Standby 
+
+Reason  Lid "
+Information,07-10-2024 11:37,Microsoft-Windows-Kernel-Power,172,"Connectivity state in standby  Connected, Reason  None"
+Warning,07-10-2024 11:37,Win32k,701,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Information,07-10-2024 11:35,Microsoft-Windows-Kernel-Power,172,"Connectivity state in standby  Disconnected, Reason  Adaptive Connected Standby"
+Information,07-10-2024 11:35,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages Microsoft LockApp_cw5n1h2txyewy Settings settings dat was cleared updating 3 keys and creating 1 modified pages 
+Warning,07-10-2024 11:27,Microsoft-Windows-DNS-Client,1014,Name resolution for the name liveupdate01s asus com timed out after none of the configured DNS servers responded  Client PID 8908 
+Information,07-10-2024 11:26,Service Control Manager,7045,"A service was installed in the system 
+
+Service Name   Adobe Genuine Software Monitor Service
+Service File Name    C  Program Files (x86) Common Files Adobe AdobeGCClient AGMService exe 
+Service Type   user mode service
+Service Start Type   auto start
+Service Account   LocalSystem"
+Warning,07-10-2024 11:23,Microsoft-Windows-DistributedCOM,10016,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user KRAZYPC Karthik Sundaram SID (S-1-5-21-4230852428-3624921412-923642634-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable)  This security permission can be modified using the Component Services administrative tool "
+Information,07-10-2024 11:21,Microsoft-Windows-Kernel-General,1,"The system time has changed to  2024 - 10 - 07T05 51 31 147126000Z from  2024 - 10 - 07T05 51 31 144837200Z 
+Time Delta  2 ms
+
+Change Reason  An application or system component changed the time 
+Process    Device HarddiskVolume3 Windows System32 svchost exe  (PID 20740) 
+
+RTC time   2024 - 10 - 07T11 21 31 147126000Z
+Current time zone bias  -330
+RTC time is in UTC  false
+System time was based on RTC time  false"
+Information,07-10-2024 11:21,Microsoft-Windows-Kernel-General,24,The time zone information was refreshed with exit reason 0  Current time zone bias is -330 
+Information,07-10-2024 11:21,Microsoft-Windows-Time-Service,35,"The time service is now synchronizing the system time with the time source time windows com,0x9 (ntp m 0x9 0 0 0 0 123- 40 81 94 65 123) with reference id 1096700200  Current local stratum number is 4 "
+Information,07-10-2024 11:21,Microsoft-Windows-Time-Service,37,"The time provider NtpClient is currently receiving valid time data from time windows com,0x9 (ntp m 0x9 0 0 0 0 123- 40 81 94 65 123) "
+Information,07-10-2024 11:20,Microsoft-Windows-Kernel-General,16,The access history in hive  Device HarddiskVolume1 EFI Microsoft Boot BCD was cleared updating 121 keys and creating 7 modified pages 
+Information,07-10-2024 11:20,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 06T17 26 13 101830300Z
+Wake Time   2024 - 10 - 07T05 50 29 163426700Z
+
+Wake Source  Unknown"
+Warning,07-10-2024 11:20,Microsoft-Windows-Time-Service,134,"NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on  time windows com,0x9   NtpClient will try again in 15 minutes and double the reattempt interval thereafter  The error was  No such host is known  (0x80072AF9)"
+Information,07-10-2024 11:20,Microsoft-Windows-Kernel-Power,566,"The system session has transitioned from 54 to 55 
+
+Reason SxTransition 
+
+BootId  98"
+Information,06-10-2024 22:56,Microsoft-Windows-Kernel-Power,566,"The system session has transitioned from 53 to 54 
+
+Reason InputAccelerometer 
+
+BootId  98"
+Information,06-10-2024 22:55,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset overlay policy scheme from {00000000-0000-0000-0000-000000000000} to {961cc777-2547-4f9d-8174-7d86181b8a7a}
+Information,06-10-2024 22:55,Microsoft-Windows-UserModePowerService,12,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset policy scheme from {64a64f24-65b9-4b56-befd-5ec1eaced9b3} to {64a64f24-65b9-4b56-befd-5ec1eaced9b3}
+Information,06-10-2024 22:55,Microsoft-Windows-Kernel-Power,105,Power source change 
+Information,06-10-2024 22:40,Service Control Manager,7040,The start type of the McAfee Scheduled Task - (McAfee-McOemSubjob-41) service was changed from demand start to disabled 
+Information,06-10-2024 22:40,Service Control Manager,7045,"A service was installed in the system 
+
+Service Name   McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name        C  Program Files McAfee WPS SubscriptionJob mc-oem-subjob exe 
+Service Type   user mode service
+Service Start Type   demand start
+Service Account   LocalSystem"
+Information,06-10-2024 22:22,Service Control Manager,7040,The start type of the McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability)) service was changed from demand start to disabled 
+Information,06-10-2024 22:22,Service Control Manager,7045,"A service was installed in the system 
+
+Service Name   McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name    C  Program Files McAfee wps 1 22 203 1 sustainability mc-sustainability exe 
+Service Type   user mode service
+Service Start Type   demand start
+Service Account   LocalSystem"
+Information,06-10-2024 22:17,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages Microsoft Windows Photos_8wekyb3d8bbwe Settings settings dat was cleared updating 20 keys and creating 7 modified pages 
+Information,06-10-2024 22:17,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Packages Microsoft Windows Photos_8wekyb3d8bbwe S-1-5-21-4230852428-3624921412-923642634-1001 SystemAppData Helium Cache ed701ac8e66ce37b_COM15 dat was cleared updating 1 keys and creating 1 modified pages 
+Information,06-10-2024 21:23,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages Microsoft ScreenSketch_8wekyb3d8bbwe SystemAppData Helium UserClasses dat was cleared updating 7 keys and creating 2 modified pages 
+Information,06-10-2024 21:10,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages 5319275A WhatsAppDesktop_cv1g1gvanyjgm Settings settings dat was cleared updating 2 keys and creating 1 modified pages 
+Information,06-10-2024 21:01,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset overlay policy scheme from {961cc777-2547-4f9d-8174-7d86181b8a7a} to {00000000-0000-0000-0000-000000000000}
+Information,06-10-2024 20:56,Microsoft-Windows-Kernel-Power,507,"The system is exiting Modern Standby 
+
+Reason  Input Keyboard "
+Information,06-10-2024 20:55,Microsoft-Windows-Kernel-Power,566,"The system session has transitioned from 51 to 52 
+
+Reason SessionUnlock 
+
+BootId  98"
+Information,06-10-2024 20:44,Microsoft-Windows-Kernel-Power,506,"The system is entering Modern Standby 
+
+Reason  Idle Timeout "
+Information,06-10-2024 20:13,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 06T13 27 49 445574500Z
+Wake Time   2024 - 10 - 06T14 43 03 319278800Z
+
+Wake Source  Unknown"
+Information,06-10-2024 20:13,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset overlay policy scheme from {961cc777-2547-4f9d-8174-7d86181b8a7a} to {961cc777-2547-4f9d-8174-7d86181b8a7a}
+Information,06-10-2024 18:57,Microsoft-Windows-Kernel-Power,42,"The system is entering sleep 
+
+Sleep Reason  Hibernate from Sleep - Standby Battery Budget Exceeded"
+Information,06-10-2024 18:57,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages B9ECED6F ArmouryCrate_qmba6cd70vzyy Settings settings dat was cleared updating 32 keys and creating 5 modified pages 
+Information,06-10-2024 18:09,Microsoft-Windows-UserModePowerService,51,Process C  Windows ImmersiveControlPanel SystemSettings exe (process ID 35380) reset overlay policy scheme from {00000000-0000-0000-0000-000000000000} to {961cc777-2547-4f9d-8174-7d86181b8a7a}
+Information,06-10-2024 18:09,Microsoft-Windows-UserModePowerService,51,Process C  Windows ImmersiveControlPanel SystemSettings exe (process ID 35380) reset overlay policy scheme from {961cc777-2547-4f9d-8174-7d86181b8a7a} to {00000000-0000-0000-0000-000000000000}
+Warning,06-10-2024 17:58,BTHUSB,3,A command sent to the adapter has timed out  The adapter did not respond 
+Information,06-10-2024 17:49,Microsoft-Windows-Time-Service,158,The time provider  VMICTimeProvider  has indicated that the current hardware and operating environment is not supported and has stopped  This behavior is expected for VMICTimeProvider on non-HyperV-guest environments  This may be the expected behavior for the current provider in the current operating environment as well 
+Warning,06-10-2024 17:37,Microsoft-Windows-DNS-Client,1014,Name resolution for the name retracker local timed out after none of the configured DNS servers responded  Client PID 42568 
+Error,06-10-2024 17:35,Service Control Manager,7000,"The Steam Client Service service failed to start due to the following error  
+The service did not respond to the start or control request in a timely fashion "
+Error,06-10-2024 17:35,Service Control Manager,7009,A timeout was reached (30000 milliseconds) while waiting for the Steam Client Service service to connect 
+Information,06-10-2024 16:42,Microsoft-Windows-Kernel-General,15,Hive     Volume{623c5068-6a31-4bb4-a74c-e41052e73808} System Volume Information SPP SppCbsHiveStore {cd42efe1-f6f1-427c-b004-033192c625a4}{F8A967AD-D99D-442C-B844-25446D2C7BE3} was reorganized with a starting size of 112340992 bytes and an ending size of 104816640 bytes 
+Information,06-10-2024 16:42,Microsoft-Windows-Kernel-General,16,The access history in hive     Volume{623c5068-6a31-4bb4-a74c-e41052e73808} System Volume Information SPP SppCbsHiveStore {cd42efe1-f6f1-427c-b004-033192c625a4}{D7F2E8ED-D674-4B01-AF17-A8E9320EF2EE} was cleared updating 761 keys and creating 107 modified pages 
+Information,06-10-2024 16:42,Microsoft-Windows-Kernel-General,15,Hive     Volume{623c5068-6a31-4bb4-a74c-e41052e73808} System Volume Information SPP SppCbsHiveStore {cd42efe1-f6f1-427c-b004-033192c625a4}{4D1E6E75-9C33-4490-95B0-39F8C63B89A0} was reorganized with a starting size of 47353856 bytes and an ending size of 45154304 bytes 
+Information,06-10-2024 16:42,Microsoft-Windows-Kernel-General,15,Hive     Volume{623c5068-6a31-4bb4-a74c-e41052e73808} System Volume Information SPP SppCbsHiveStore {cd42efe1-f6f1-427c-b004-033192c625a4}{50B6FA4B-3249-414C-BBAF-CB10D325754B} was reorganized with a starting size of 22327296 bytes and an ending size of 21774336 bytes 
+Information,06-10-2024 16:42,Microsoft-Windows-Kernel-General,11,"TxR init phase for hive     GLOBALROOT Device HarddiskVolumeShadowCopy1 Windows System32 config DRIVERS (TM  {829aa1f4-82fd-11ef-950d-d4f32d1ddbc4}, RM  {829aa1f3-82fd-11ef-950d-d4f32d1ddbc4}) finished with result=0xC00000A2 (Internal code=7) "
+Information,06-10-2024 16:42,Microsoft-Windows-Kernel-General,15,Hive     GLOBALROOT Device HarddiskVolumeShadowCopy1 Windows System32 config DRIVERS was reorganized with a starting size of 8577024 bytes and an ending size of 8241152 bytes 
+Information,06-10-2024 16:42,Service Control Manager,7040,The start type of the Windows Modules Installer service was changed from auto start to demand start 
+Error,06-10-2024 16:41,Microsoft-Windows-WindowsUpdateClient,20,Installation Failure  Windows failed to install the following update with error 0x80073D02  9NKSQGP7F2NH-5319275A WhatsAppDesktop 
+Information,06-10-2024 16:41,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9NKSQGP7F2NH-5319275A WhatsAppDesktop
+Information,06-10-2024 16:41,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Microsoft Windows AppRepository Packages 5319275A WhatsAppDesktop_2 2439 7 0_x64__cv1g1gvanyjgm ActivationStore dat was cleared updating 0 keys and creating 0 modified pages 
+Information,06-10-2024 16:41,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9NHT9RB2F4HD-Microsoft Copilot
+Information,06-10-2024 16:41,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9WZDNCRFHWD2-Microsoft MicrosoftSolitaireCollection
+Information,06-10-2024 16:41,Microsoft-Windows-WindowsUpdateClient,44,Windows Update started downloading an update 
+Information,06-10-2024 16:19,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset overlay policy scheme from {ded574b5-45a0-4f42-8737-46345c09c238} to {00000000-0000-0000-0000-000000000000}
+Information,06-10-2024 16:19,Microsoft-Windows-UserModePowerService,12,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset policy scheme from {27fa6203-3987-4dcc-918d-748559d549ec} to {64a64f24-65b9-4b56-befd-5ec1eaced9b3}
+Information,06-10-2024 16:19,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset overlay policy scheme from {ded574b5-45a0-4f42-8737-46345c09c238} to {ded574b5-45a0-4f42-8737-46345c09c238}
+Information,06-10-2024 16:19,Microsoft-Windows-UserModePowerService,12,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset policy scheme from {6fecc5ae-f350-48a5-b669-b472cb895ccf} to {27fa6203-3987-4dcc-918d-748559d549ec}
+Information,06-10-2024 14:28,Microsoft-Windows-UserModePowerService,12,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset policy scheme from {27fa6203-3987-4dcc-918d-748559d549ec} to {6fecc5ae-f350-48a5-b669-b472cb895ccf}
+Information,06-10-2024 14:28,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset overlay policy scheme from {00000000-0000-0000-0000-000000000000} to {ded574b5-45a0-4f42-8737-46345c09c238}
+Information,06-10-2024 14:28,Microsoft-Windows-UserModePowerService,12,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 4168) reset policy scheme from {64a64f24-65b9-4b56-befd-5ec1eaced9b3} to {27fa6203-3987-4dcc-918d-748559d549ec}
+Information,06-10-2024 14:27,BTHUSB,18,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter  Bluetooth keyboards might not work in the system BIOS during startup 
+Information,06-10-2024 13:27,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Packages 40459File-New-Project EarTrumpet_1sdd7yawvg6ne S-1-5-21-4230852428-3624921412-923642634-1001 SystemAppData Helium Cache 15a8dbc49e94d36a_COM15 dat was cleared updating 1 keys and creating 1 modified pages 
+Information,06-10-2024 13:26,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 05T21 51 44 440264600Z
+Wake Time   2024 - 10 - 06T07 56 00 156847900Z
+
+Wake Source  Unknown"
+Information,06-10-2024 13:25,EventLog,6013,The system uptime is 219904 seconds 
+Information,06-10-2024 02:18,Microsoft-Windows-Kernel-General,15,Hive     C  Windows System32 config COMPONENTS was reorganized with a starting size of 47353856 bytes and an ending size of 45154304 bytes 
+Information,06-10-2024 00:33,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Packages NotepadPlusPlus_7njy0v32s6xk6 S-1-5-21-4230852428-3624921412-923642634-1001 SystemAppData Helium Cache f3851eb54fd8cf6f_COM15 dat was cleared updating 1 keys and creating 1 modified pages 
+Information,06-10-2024 00:33,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages NotepadPlusPlus_7njy0v32s6xk6 SystemAppData Helium UserClasses dat was cleared updating 1 keys and creating 1 modified pages 
+Information,06-10-2024 00:27,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 05T18 35 46 441539300Z
+Wake Time   2024 - 10 - 05T18 57 05 120246500Z
+
+Wake Source  Unknown"
+Error,06-10-2024 00:05,Microsoft-Windows-DistributedCOM,10010,The server DolbyLaboratories DolbyAccess_3 24 2820 0_x64__rz1tebttyb220!App AppX1vq60yhpapky3fc2vj8qa51f0d03x54j mca did not register with DCOM within the required timeout 
+Information,05-10-2024 22:50,Microsoft-Windows-Kernel-General,15,Hive  SystemRoot System32 config DRIVERS was reorganized with a starting size of 8577024 bytes and an ending size of 8241152 bytes 
+Information,05-10-2024 22:35,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages MicrosoftWindows CrossDevice_cw5n1h2txyewy SystemAppData Helium User dat was cleared updating 1 keys and creating 1 modified pages 
+Information,05-10-2024 22:34,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages AppleInc iCloud_nzyj5cx40ttqa Settings settings dat was cleared updating 2 keys and creating 1 modified pages 
+Information,05-10-2024 22:34,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Packages AppleInc iCloud_nzyj5cx40ttqa S-1-5-21-4230852428-3624921412-923642634-1001 SystemAppData Helium Cache 193c4ed8a4fff5d_COM15 dat was cleared updating 1 keys and creating 1 modified pages 
+Information,05-10-2024 22:34,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages 40459File-New-Project EarTrumpet_1sdd7yawvg6ne Settings settings dat was cleared updating 2 keys and creating 1 modified pages 
+Information,05-10-2024 22:34,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9WZDNCRD29V9-MICROSOFT MICROSOFTOFFICEHUB
+Information,05-10-2024 22:34,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Microsoft Windows AppRepository Packages Microsoft MicrosoftOfficeHub_18 2409 1301 0_x64__8wekyb3d8bbwe ActivationStore dat was cleared updating 0 keys and creating 0 modified pages 
+Information,05-10-2024 22:34,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Users Karthik Sundaram AppData Local Packages DolbyLaboratories DolbyAccess_rz1tebttyb220 Settings settings dat was cleared updating 2 keys and creating 1 modified pages 
+Error,05-10-2024 17:39,Service Control Manager,7031,The GameInput Service service terminated unexpectedly   It has done this 1 time(s)   The following corrective action will be taken in 1000 milliseconds  Restart the service 
+Information,05-10-2024 17:37,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Microsoft Windows AppRepository Packages AppleInc AppleMusicWin_1 1280 38913 0_x64__nzyj5cx40ttqa ActivationStore dat was cleared updating 0 keys and creating 0 modified pages 
+Warning,05-10-2024 15:38,Display,4125,Good news 1 has been enhanced for a brighter and more detailed picture  You can turn off Auto HDR any time in Settings 
+Information,05-10-2024 14:51,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9P5Z076K079H-MicrosoftCorporationII WinAppRuntime Singleton
+Information,05-10-2024 14:51,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9P2VP41KK7LF-Microsoft WindowsAppRuntime 1 6
+Information,05-10-2024 14:50,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9N7R5S6B0ZZH-B9ECED6F ASUSPCAssistant
+Information,05-10-2024 14:50,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9WZDNCRFHWKN-MICROSOFT WINDOWSSOUNDRECORDER
+Error,05-10-2024 14:50,Microsoft-Windows-WindowsUpdateClient,20,Installation Failure  Windows failed to install the following update with error 0x80073D02  9PLH2SV1DVK5-B9ECED6F Glidex 
+Information,05-10-2024 14:50,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9PLH2SV1DVK5-B9ECED6F Glidex
+Information,05-10-2024 14:30,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9MWZ3VLW5HBW-B9ECED6F AURACreator
+Information,05-10-2024 14:30,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9WZDNCRD1HKW-Microsoft XboxIdentityProvider
+Information,05-10-2024 14:30,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 05T08 09 54 777776700Z
+Wake Time   2024 - 10 - 05T09 00 02 173287700Z
+
+Wake Source  Unknown"
+Information,05-10-2024 12:00,EventLog,6013,The system uptime is 128347 seconds 
+Information,05-10-2024 10:48,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9WZDNCRDTBJJ-MICROSOFT GETSTARTED
+Information,05-10-2024 10:48,Microsoft-Windows-Ntfs,98,Volume OS ( Device HarddiskVolumeShadowCopy1) is healthy   No action is needed 
+Error,04-10-2024 23:35,Service Control Manager,7009,A timeout was reached (30000 milliseconds) while waiting for the Sync Host_36c9d14 service to connect 
+Error,04-10-2024 23:35,Microsoft-Windows-DistributedCOM,10010,The server {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54} did not register with DCOM within the required timeout 
+Information,04-10-2024 23:32,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 04T16 14 07 297033400Z
+Wake Time   2024 - 10 - 04T18 02 04 124486000Z
+
+Wake Source  Unknown"
+Information,04-10-2024 20:19,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Packages MicrosoftWindows CrossDevice_cw5n1h2txyewy S-1-5-21-4230852428-3624921412-923642634-1001 SystemAppData Helium Cache 8befeb2c69c06b6b_COM15 dat was cleared updating 1 keys and creating 1 modified pages 
+Information,04-10-2024 20:15,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 04T05 20 01 334234900Z
+Wake Time   2024 - 10 - 04T14 45 33 151058100Z
+
+Wake Source  Unknown"
+Information,04-10-2024 09:39,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 20580) reset overlay policy scheme from {00000000-0000-0000-0000-000000000000} to {00000000-0000-0000-0000-000000000000}
+Information,04-10-2024 09:33,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 03T19 11 17 739265800Z
+Wake Time   2024 - 10 - 04T04 03 51 225037100Z
+
+Wake Source  Unknown"
+Information,04-10-2024 00:41,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Microsoft Provisioning Microsoft-Desktop-Provisioning-Sequence dat was cleared updating 0 keys and creating 0 modified pages 
+Information,04-10-2024 00:41,Microsoft-Windows-Kernel-Power,566,"The system session has transitioned from 0 to 1 
+
+Reason ScreenOffGracePeriod 
+
+BootId  98"
+Information,04-10-2024 00:41,User32,1074,"The process C  Windows system32 winlogon exe (KRAZYPC) has initiated the power off of computer KRAZYPC on behalf of user NT AUTHORITY SYSTEM for the following reason  No title for this reason could be found
+ Reason Code  0x500ff
+ Shutdown Type  power off
+ Comment  "
+Information,04-10-2024 00:25,Service Control Manager,7040,The start type of the Microsoft Defender Antivirus Mini-Filter Driver service was changed from boot start to demand start 
+Information,04-10-2024 00:25,Service Control Manager,7040,The start type of the Microsoft Defender Core Service service was changed from auto start to demand start 
+Information,04-10-2024 00:23,Service Control Manager,7040,The start type of the Microsoft Defender Antivirus Boot Driver service was changed from demand start to boot start 
+Warning,04-10-2024 00:22,Microsoft-Windows-DistributedCOM,10016,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows SecurityCenter SecurityAppBroker
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable)  This security permission can be modified using the Component Services administrative tool "
+Warning,04-10-2024 00:22,Microsoft-Windows-Kernel-Processor-Power,37,The speed of processor 31 in group 0 is being limited by system firmware  The processor has been in this reduced performance state for 71 seconds since the last report 
+Information,04-10-2024 00:21,Microsoft-Windows-HttpService,113,"Attempted to add URL (http   localhost 5426 ) to URL group (0xFE00001020000001)  Status  0x0  Process Id 0x2BC0 Executable path  Device HarddiskVolume3 Program Files (x86) Razer Synapse3 Service Razer Synapse Service exe, User SYSTEM"
+Information,04-10-2024 00:21,Microsoft-Windows-HttpService,111,"Create URL group 0xFE00001020000001  Status 0x0  Process Id 0x2BC0 Executable path  Device HarddiskVolume3 Program Files (x86) Razer Synapse3 Service Razer Synapse Service exe, User SYSTEM"
+Information,04-10-2024 00:21,Microsoft-Windows-TPM-WMI,1282,The TBS device identifier has been generated 
+Information,04-10-2024 00:21,TPM,18,This event triggers the Trusted Platform Module (TPM) provisioning status check to run 
+Information,04-10-2024 00:21,Microsoft-Windows-UserModePowerService,12,Process C  Windows System32 DriverStore FileRepository ipf_cpu inf_amd64_b25cc008923a9297 ipf_uf exe (process ID 6900) reset policy scheme from {6fecc5ae-f350-48a5-b669-b472cb895ccf} to {6fecc5ae-f350-48a5-b669-b472cb895ccf}
+Information,04-10-2024 00:21,Microsoft-Windows-HttpService,113,"Attempted to add URL (http   127 0 0 1 27339 127 0 0 1 AuraSDK ) to URL group (0xFF00001A20000001)  Status  0x0  Process Id 0x1998 Executable path  Device HarddiskVolume3 Program Files (x86) ASUS GameSDK Service GameSDK exe, User SYSTEM"
+Information,04-10-2024 00:21,Microsoft-Windows-HttpService,111,"Create URL group 0xFF00001A20000001  Status 0x0  Process Id 0x1998 Executable path  Device HarddiskVolume3 Program Files (x86) ASUS GameSDK Service GameSDK exe, User SYSTEM"
+Information,04-10-2024 00:21,RST Middleware,27,"Found passthru disk  SCSI Port  0, SCSI Bus  2, SCSI Target  0, PCIe SSD, 2048408248320 bytes, HFS002TEJ9X101N                         "
+Information,04-10-2024 00:21,Microsoft-Windows-HttpService,112,"Attempted to reserve URL http   + 3387 rdp   Status 0x0  Process Id 0x4 Executable path , User SYSTEM"
+Information,04-10-2024 00:21,Microsoft-Windows-HttpService,112,"Attempted to reserve URL https   + 443 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}   Status 0x0  Process Id 0x4 Executable path , User SYSTEM"
+Information,04-10-2024 00:21,Microsoft-Windows-HttpService,112,"Attempted to reserve URL http   + 80 Temporary_Listen_Addresses   Status 0x0  Process Id 0x4 Executable path , User SYSTEM"
+Information,04-10-2024 00:21,Microsoft-Windows-DHCPv6-Client,51046,DHCPv6 client service is started
+Information,04-10-2024 00:21,Microsoft-Windows-Dhcp-Client,50103,DHCPv4 client registered for shutdown notification
+Information,04-10-2024 00:21,nhi,9001,"Thunderbolt driver is loaded and initialized connection to HW 
+ Driver version  1 41 1379 0
+ NVM version  43 3
+"
+Information,04-10-2024 00:21,Microsoft-Windows-Directory-Services-SAM,16983,"The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods 
+
+For more information please see https   go microsoft com fwlink  linkid=2150956 
+"
+Information,04-10-2024 00:21,Microsoft-Windows-Directory-Services-SAM,16977,"The domain is configured with the following minimum password length-related settings 
+
+MinimumPasswordLength  0
+
+RelaxMinimumPasswordLengthLimits  0
+
+MinimumPasswordLengthAudit  -1
+
+For more information see https   go microsoft com fwlink  LinkId=2097191 
+"
+Information,04-10-2024 00:21,Microsoft-Windows-Directory-Services-SAM,16962,"Remote calls to the SAM database are being restricted using the default security descriptor  O SYG SYD (A  RC   BA) 
+For more information please see http   go microsoft com fwlink  LinkId=787651 "
+Warning,04-10-2024 00:21,LsaSrv,6155,"LSA package is not signed as expected  This can cause unexpected behavior with Credential Guard 
+
+PackageName  msv1_0"
+Information,04-10-2024 00:21,LsaSrv,6156,"Virtualization Based Security for Credential Guard auto enablement status 
+
+Hardware Requirements 	1
+Domain Joined 	0
+Azure AD Joined 	0"
+Information,04-10-2024 00:21,Microsoft-Windows-Wininit,18,VBS Key Isolation was started and will protect VSM-isolated keys 
+Information,04-10-2024 00:21,Microsoft-Windows-Wininit,14,"Credential Guard configuration 
+
+Registry Configuration  0x2
+Test Configuration  0
+Auto Enablement  1"
+Warning,04-10-2024 00:21,Microsoft-Windows-Kernel-PnP,219,The driver  Driver WUDFRd failed to load for the device HID VID_0B05&PID_19B6&MI_00&Col09 7&8bfce01&0&0008 
+Information,04-10-2024 00:21,Microsoft-Windows-DriverFrameworks-UserMode,10118,"UMDF reflector is unable to connect to service control manager (SCM)  This is expected during boot, when SCM has not started yet  Will retry when it starts "
+Information,04-10-2024 00:21,Intel-SST-OED,28,"Library is not supported in BIOS      C  Windows System32 DriverStore FileRepository intcoed_oemlibpath inf_amd64_2631c5cb8dca3da2 adl_vlldp14x_lite_lib bin, status = The request is not supported  "
+Information,04-10-2024 00:21,Intel-SST-OED,29,FX module is not supported in BIOS   {56a9ea76-3745-4cc0-815c-a621faa8c9cb} from     C  Windows System32 DriverStore FileRepository intcoed_oemlibpath inf_amd64_2631c5cb8dca3da2 adl_vlldp14x_lite_lib bin 
+Information,04-10-2024 00:21,Intel-SST-OED,29,FX module is not supported in BIOS   {cbdd3db0-85ae-4466-b18d-504fd8e7082b} from     C  Windows System32 DriverStore FileRepository intcoed_oemlibpath inf_amd64_2631c5cb8dca3da2 adl_vlldp14x_lib bin 
+Information,04-10-2024 00:21,Intel-SST-OED,29,FX module is not supported in BIOS   {7aa4db02-6b41-4bc3-a712-80a2dde29e11} from     C  Windows System32 DriverStore FileRepository intcoed_oemlibpath inf_amd64_2631c5cb8dca3da2 adl_rtksep481_lib bin 
+Information,04-10-2024 00:21,Intel-SST-OED,29,FX module is not supported in BIOS   {a28aff37-8f9e-4b9f-8c0a-0b86db7ce6f0} from     C  Windows System32 DriverStore FileRepository intcoed_oemlibpath inf_amd64_2631c5cb8dca3da2 adl_dtspost_lib bin 
+Information,04-10-2024 00:21,Intel-SST-OED,29,FX module is not supported in BIOS   {85e6897a-07d3-4db6-9823-3fe0585490d6} from     C  Windows System32 DriverStore FileRepository intcoed_oemlibpath inf_amd64_2631c5cb8dca3da2 adl_dirac1_lib bin 
+Information,04-10-2024 00:21,Netwtw14,7036,The  Device NDMP1 service entered the Intel(R) Wi-Fi 6E AX211 160MHz state 
+Information,04-10-2024 00:21,Microsoft-Windows-Kernel-Power,521,Active battery count change 
+Information,04-10-2024 00:21,Microsoft-Windows-Kernel-Processor-Power,55,"Processor 31 in group 0 exposes the following power management capabilities 
+
+Idle state type  Micro Power Engine Plugin (11 state(s))
+
+Performance state type  ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz)  2200
+Maximum performance percentage  1159
+Minimum performance percentage  100
+Minimum throttle percentage  4"
+Warning,04-10-2024 00:21,Microsoft-Windows-Kernel-PnP,219,The driver  Driver WUDFRd failed to load for the device PCI VEN_8086&DEV_1134&SUBSYS_1F021043&REV_00 5C8ECD708700AA0000 
+Warning,04-10-2024 00:21,Microsoft-Windows-Kernel-PnP,219,The driver  Driver WUDFRd failed to load for the device PCI VEN_8086&DEV_A71D&SUBSYS_1B931043&REV_01 3&11583659&0&20 
+Information,04-10-2024 00:20,Microsoft-Windows-Ntfs,98,Volume     Volume{0e5aa93f-d843-4b05-81a6-50394aba0b11} ( Device HarddiskVolume4) is healthy   No action is needed 
+Information,04-10-2024 00:20,Microsoft-Windows-Ntfs,98,Volume     Volume{6b55e2c7-a112-4670-a65b-e08966409883} ( Device HarddiskVolume5) is healthy   No action is needed 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-Power,125,"ACPI thermal zone  _TZ TZ00 has been enumerated              
+_PSV = 0K             
+_TC1 = 0             
+_TC2 = 0             
+_TSP = 0ms             
+_AC0 = 373K             
+_AC1 = 328K             
+_AC2 = 323K             
+_AC3 = 318K             
+_AC4 = 313K             
+_AC5 = 0K             
+_AC6 = 0K             
+_AC7 = 0K             
+_AC8 = 0K             
+_AC9 = 0K             
+_CRT = 378K             
+_HOT = 374K             
+minimum throttle = 0             
+_CR3 = 0K"
+Information,04-10-2024 00:20,Microsoft-Windows-Ntfs,98,Volume C  ( Device HarddiskVolume3) is healthy   No action is needed 
+Information,04-10-2024 00:20,Microsoft-Windows-HAL,16,The iommu fault reporting has been initialized 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-General,20,"The leap second configuration has been updated 
+Reason  Leap second data initialized from registry during boot
+Leap seconds enabled  true
+New leap second count  0
+Old leap second count  0"
+Warning,04-10-2024 00:20,Microsoft-Windows-Hyper-V-Hypervisor,167,"The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled  To enable mitigations for virtual machines, disable HyperThreading "
+Information,04-10-2024 00:20,Microsoft-Windows-Hyper-V-Hypervisor,165,"Hypervisor configured mitigations for CVE-2019-11091, CVE-2018-12126, CVE-2018-12127, CVE-2018-12130 for virtual machines 
+
+Processor not affected  true
+Processor family not affected  false
+Processor supports microarchitectural buffer flush  false
+Buffer flush needed  true
+"
+Information,04-10-2024 00:20,Microsoft-Windows-Hyper-V-Hypervisor,156,"Hypervisor configured mitigations for CVE-2018-3646 for virtual machines 
+
+Processor not affected  true
+Processor family not affected  false
+Processor supports cache flush  true
+HyperThreading enabled  false
+Parent hypervisor applies mitigations  false
+Mitigations disabled by bcdedit  false
+Mitigations enabled  true
+Cache flush needed  false
+"
+Information,04-10-2024 00:20,Microsoft-Windows-Hyper-V-Hypervisor,129,"Hypervisor initialized I O remapping 
+
+Hardware present  true
+Hardware enabled  true
+Policy  0x0
+Enabled features  0x43
+Internal information  0x0
+Problems  0x0
+Additional information  0x0"
+Information,04-10-2024 00:20,Microsoft-Windows-Hyper-V-Hypervisor,2,Hypervisor scheduler type is 0x4 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-Boot,27,The boot type was 0x0 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-Boot,25,The boot menu policy was 0x1 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-Boot,238,EFI time zone bias  2047  Daylight flags  0  Firmware time   2024 - 10 - 04T00 20 52 000000000Z 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-Boot,153,"Virtualization-based security (policies  VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced) is enabled due to VBS registry configuration "
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-General,12,The operating system started at system time  2024 - 10 - 03T18 50 53 500000000Z 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-General,13,The operating system is shutting down at system time  2024 - 10 - 03T18 50 42 490594000Z 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-Power,577,The system has prepared for a system initiated reboot from Active 
+Information,04-10-2024 00:20,Microsoft-Windows-Kernel-Power,109,"The kernel power manager has initiated a shutdown transition 
+
+Action  Power Action Reboot 
+Event Code  0x0 
+Reason  Kernel API"
+Warning,04-10-2024 00:20,Microsoft-Windows-WLAN-AutoConfig,10002,"WLAN Extensibility Module has stopped 
+
+Module Path  C  Windows System32 DriverStore FileRepository netwtw6e inf_amd64_8231e64986f91750 IntelIHVRouter14 dll
+"
+Information,04-10-2024 00:21,EventLog,6005,The Event log service was started 
+Information,04-10-2024 00:21,EventLog,6009,Microsoft (R) Windows (R) 10 00  22631  Multiprocessor Free 
+Information,04-10-2024 00:20,Microsoft-Windows-Dhcp-Client,50037,DHCPv4 client service is stopped  ShutDown Flag value is 1
+Information,04-10-2024 00:20,Microsoft-Windows-Dhcp-Client,50106,DHCPv4 is waiting on DHCPv6 service to stop
+Information,04-10-2024 00:20,Microsoft-Windows-DHCPv6-Client,51057,DHCPv6 client service stop is almost done DHCP Context Ref count is 1
+Information,04-10-2024 00:20,Microsoft-Windows-Dhcp-Client,50105,DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT
+Information,04-10-2024 00:20,Microsoft-Windows-Dhcp-Client,50104,DHCPv4 client received shutdown notification
+Warning,03-10-2024 23:32,Microsoft-Windows-DNS-Client,1014,Name resolution for the name t-ring-fallbacks2 msedge net timed out after none of the configured DNS servers responded  Client PID 5864 
+Information,03-10-2024 23:19,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 03T17 09 16 823182200Z
+Wake Time   2024 - 10 - 03T17 49 22 563351100Z
+
+Wake Source  Unknown"
+Information,03-10-2024 23:19,Microsoft-Windows-Kernel-Power,566,"The system session has transitioned from 6 to 8 
+
+Reason InputHid 
+
+BootId  97"
+Information,03-10-2024 21:31,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 03T15 46 05 275219000Z
+Wake Time   2024 - 10 - 03T16 01 03 566422700Z
+
+Wake Source  Unknown"
+Error,03-10-2024 20:31,Volsnap,36,The shadow copies of volume C  were aborted because the shadow copy storage could not grow due to a user imposed limit 
+Information,03-10-2024 19:03,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4 18 24080 9) - Current Channel (Broad)
+Information,03-10-2024 19:02,Service Control Manager,7045,"A service was installed in the system 
+
+Service Name   MpKsl8a8c90c5
+Service File Name   C  ProgramData Microsoft Windows Defender Definition Updates {95FC6047-24E5-496A-BF9E-4A22B702EF78} MpKslDrv sys
+Service Type   kernel mode driver
+Service Start Type   demand start
+Service Account   "
+Information,03-10-2024 18:59,Microsoft-Windows-UserModePowerService,12,Process C  Windows System32 DriverStore FileRepository ipf_cpu inf_amd64_b25cc008923a9297 ipf_uf exe (process ID 6004) reset policy scheme from {64a64f24-65b9-4b56-befd-5ec1eaced9b3} to {64a64f24-65b9-4b56-befd-5ec1eaced9b3}
+Information,03-10-2024 18:56,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 17644) reset overlay policy scheme from {ded574b5-45a0-4f42-8737-46345c09c238} to {961cc777-2547-4f9d-8174-7d86181b8a7a}
+Information,03-10-2024 17:37,Microsoft-Windows-UserModePowerService,51,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 17644) reset overlay policy scheme from {961cc777-2547-4f9d-8174-7d86181b8a7a} to {ded574b5-45a0-4f42-8737-46345c09c238}
+Information,03-10-2024 17:37,Microsoft-Windows-UserModePowerService,12,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 17644) reset policy scheme from {64a64f24-65b9-4b56-befd-5ec1eaced9b3} to {6fecc5ae-f350-48a5-b669-b472cb895ccf}
+Information,03-10-2024 17:36,Microsoft-Windows-UserModePowerService,12,Process C  Program Files ASUS ARMOURY CRATE Service ArmouryCrate UserSessionHelper exe (process ID 17644) reset policy scheme from {6fecc5ae-f350-48a5-b669-b472cb895ccf} to {64a64f24-65b9-4b56-befd-5ec1eaced9b3}
+Warning,03-10-2024 17:35,Microsoft-Windows-DNS-Client,1014,Name resolution for the name browser-notifications opera com timed out after none of the configured DNS servers responded  Client PID 3968 
+Warning,03-10-2024 17:13,Microsoft-Windows-WLAN-AutoConfig,4003,"WLAN AutoConfig detected limited connectivity, attempting automatic recovery 
+
+Recovery Type  4
+Error Code  0x0
+Trigger Reason  7
+IP Family  0
+"
+Information,03-10-2024 17:12,EventLog,6013,The system uptime is 181122 seconds 
+Information,03-10-2024 00:05,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9N0866FS04W8-DolbyLaboratories DolbyAccess
+Information,03-10-2024 00:05,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Microsoft Windows AppRepository Packages DolbyLaboratories DolbyAccess_3 24 2820 0_x64__rz1tebttyb220 ActivationStore dat was cleared updating 0 keys and creating 0 modified pages 
+Information,03-10-2024 00:04,Volsnap,33,The oldest shadow copy of volume C  was deleted to keep disk space usage for shadow copies of volume C  below the user defined limit 
+Warning,02-10-2024 20:26,Microsoft-Windows-DistributedCOM,10016,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user KRAZYPC Karthik Sundaram SID (S-1-5-21-4230852428-3624921412-923642634-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1989013348-3040981531-2542848207-4179683062-1047211343-704142762-318354367)  This security permission can be modified using the Component Services administrative tool "
+Information,02-10-2024 16:38,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 02T07 17 33 130233900Z
+Wake Time   2024 - 10 - 02T11 08 43 547399700Z
+
+Wake Source  Unknown"
+Warning,02-10-2024 11:30,Microsoft-Windows-EnhancedPhishingProtection-Events,8265,Aggregated Threat assessment of current system instance
+Error,02-10-2024 11:15,Service Control Manager,7023,"The McAfee Scheduled Task - (McAfee-Dynamicappdownloader) service terminated with the following error  
+Incorrect function "
+Information,02-10-2024 10:07,Microsoft-Windows-Power-Troubleshooter,1,"The system has returned from a low power state 
+
+Sleep Time   2024 - 10 - 01T17 50 10 075672400Z
+Wake Time   2024 - 10 - 02T04 37 12 579772200Z
+
+Wake Source  Unknown"
+Information,01-10-2024 23:18,Microsoft-Windows-UserPnp,20003,Driver Management has concluded the process to add Service NVDisplay ContainerLocalSystem for Device Instance ID PCI VEN_10DE&DEV_2757&SUBSYS_35081043&REV_A1 4&6F51D06&0&0008 with the following status  0 
+Error,01-10-2024 21:12,Service Control Manager,7024,"The GoogleUpdater InternalService 130 0 6679 0 (GoogleUpdaterInternalService130 0 6679 0) service terminated with the following service-specific error  
+%%75045"
+Information,01-10-2024 18:17,Microsoft-Windows-Kernel-Power,42,"The system is entering sleep 
+
+Sleep Reason  Hibernate from Sleep - Fixed Timeout"
+Information,01-10-2024 14:54,Microsoft-Windows-HttpService,112,"Attempted to reserve URL http   + 3387 rdp   Status 0x0  Process Id 0xE40 Executable path  Device HarddiskVolume3 Windows WinSxS amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10 0 22621 4245_none_e95e526042cdf49b TiWorker exe, User SYSTEM"
+Information,01-10-2024 14:54,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Microsoft Windows AppRepository Packages MicrosoftWindows LKG TwinSxS_1000 22621 4249 0_x64__cw5n1h2txyewy ActivationStore dat was cleared updating 0 keys and creating 0 modified pages 
+Information,01-10-2024 14:54,Microsoft-Windows-Kernel-General,16,The access history in hive     C  Windows AppCompat Programs Amcache hve tmp was cleared updating 2006 keys and creating 792 modified pages 
+Information,01-10-2024 14:53,User32,1074,"The process C  Windows servicing TrustedInstaller exe (KRAZYPC) has initiated the restart of computer KRAZYPC on behalf of user NT AUTHORITY SYSTEM for the following reason  Operating System  Upgrade (Planned)
+ Reason Code  0x80020003
+ Shutdown Type  restart
+ Comment  "
+Critical,01-10-2024 14:52,Microsoft-Windows-Kernel-Power,41,"The system has rebooted without cleanly shutting down first  This error could be caused if the system stopped responding, crashed, or lost power unexpectedly "
+Error,01-10-2024 14:54,EventLog,6008,The previous system shutdown at 2 23 21 PM on  10  1  2024 was unexpected 
+Warning,01-10-2024 14:51,Display,4101,Display driver nvlddmkm stopped responding and has successfully recovered 
+Information,01-10-2024 14:07,Service Control Manager,7045,"A service was installed in the system 
+
+Service Name   AsusSAIO
+Service File Name    SystemRoot System32 DriverStore FileRepository asussci2 inf_amd64_a61e5ab0aed04d3c ASUSSystemAnalysis AsusSAIO sys
+Service Type   kernel mode driver
+Service Start Type   demand start
+Service Account   "
+Information,01-10-2024 13:56,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  2024-09 Cumulative Update Preview for Windows 11 Version 23H2 for x64-based Systems (KB5043145)
+Error,01-10-2024 13:56,Microsoft-Windows-WindowsUpdateClient,20,Installation Failure  Windows failed to install the following update with error 0x80073D02  9N7R5S6B0ZZH-B9ECED6F ASUSPCAssistant 
+Information,01-10-2024 13:56,Microsoft-Windows-Kernel-General,16,The access history in hive     C  ProgramData Microsoft Windows AppRepository Packages B9ECED6F ASUSPCAssistant_4 0 24 0_x64__qmba6cd70vzyy ActivationStore dat was cleared updating 0 keys and creating 0 modified pages 
+Information,01-10-2024 13:46,Microsoft-Windows-WindowsUpdateClient,43,Installation Started  Windows has started installing the following update  9NBLGGH5R558-Microsoft Todos

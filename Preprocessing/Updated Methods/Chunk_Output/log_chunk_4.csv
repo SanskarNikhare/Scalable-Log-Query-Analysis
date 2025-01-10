@@ -1,0 +1,13 @@
+Level,Date and Time,Source,Event ID,Original Message,Threshold
+Error,01-10-2024 14:54,EventLog,6008,The previous system shutdown at 2 23 21 PM on  10  1  2024 was unexpected ,0.8
+Error,01-10-2024 14:51,nvlddmkm,14,"The description for Event ID 14 from source nvlddmkm cannot be found  Either the component that raises this event is not installed on your local computer or the installation is corrupted  You can install or repair the component on the local computer 
+
+If the event originated on another computer, the display information had to be saved with the event 
+
+The following information was included with the event  
+
+ Device Video8
+CMDre 00000000 00000208 ff1fe141 00000007 00000000
+
+The message resource is present but the message was not found in the message table
+",0.8
