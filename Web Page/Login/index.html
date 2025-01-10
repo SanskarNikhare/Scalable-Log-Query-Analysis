@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign Up and Login</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background-color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    .container {
+      text-align: center;
+      width: 100%;
+      max-width: 360px;
+    }
+
+    .logo {
+      margin-bottom: 50px;
+    }
+
+    .logo img {
+      width: 100px;
+    }
+
+    h1 {
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+
+    input {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+
+    .btn-primary {
+      width: 100%;
+      background-color: #ff3c00;
+      color: #fff;
+      padding: 12px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .btn-primary:hover {
+      background-color: #f28a61;
+    }
+
+    .login-text {
+      font-size: 14px;
+      margin-top: 15px;
+    }
+
+    .login-text a {
+      color: #ea5008;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">
+      <img src="C:\Users\nikha\OneDrive\Desktop\FyI Project\Web Page\Login\Gemini_Generated_Image_j7axojj7axojj7ax-removebg-preview.png" alt="Logo">
+    </div>
+
+    <!-- Sign Up Form -->
+    <div id="signUpForm">
+      <h1>Create an account</h1>
+      <input type="email" placeholder="Email address*" required>
+      <button class="btn-primary" id="continueBtn">Continue</button>
+      <p class="login-text">
+        Already have an account? <a href="javascript:void(0);" id="toggleToLogin">Login</a>
+      </p>
+    </div>
+
+    <!-- Login Form -->
+    <div id="loginForm" style="display: none;">
+      <h1>Log In</h1>
+      <input type="email" placeholder="Email address*" required>
+      <input type="password" placeholder="Password*" required>
+      <button class="btn-primary" id="loginBtn">Log In</button>
+      <p class="login-text">
+        Don't have an account? <a href="javascript:void(0);" id="toggleToSignUp">Sign Up</a>
+      </p>
+    </div>
+  </div>
+
+  <script>
+    const signUpForm = document.getElementById('signUpForm');
+    const loginForm = document.getElementById('loginForm');
+    const toggleToLogin = document.getElementById('toggleToLogin');
+    const toggleToSignUp = document.getElementById('toggleToSignUp');
+    const continueBtn = document.getElementById('continueBtn');
+    const loginBtn = document.getElementById('loginBtn');
+
+    toggleToLogin.addEventListener('click', () => {
+      signUpForm.style.display = 'none';
+      loginForm.style.display = 'block';
+    });
+
+    toggleToSignUp.addEventListener('click', () => {
+      loginForm.style.display = 'none';
+      signUpForm.style.display = 'block';
+    });
+
+    continueBtn.addEventListener('click', () => {
+      // Show password field and change button text to "Sign Up"
+      const passwordInput = document.createElement('input');
+      passwordInput.type = 'password';
+      passwordInput.placeholder = 'Password*';
+      signUpForm.insertBefore(passwordInput, continueBtn);
+      continueBtn.textContent = 'Sign Up';
+      continueBtn.setAttribute('id', 'signUpBtn');
+
+      // Change the action for the new button
+      const signUpBtn = document.getElementById('signUpBtn');
+      signUpBtn.addEventListener('click', () => {
+        alert('Account Created');
+      });
+    });
+
+    loginBtn.addEventListener('click', () => {
+      alert('Logged In');
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+body {
+  font-family: sans-serif;
+  background-color: #181818;
+  color: #fff;
+  display: flex;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.sidebar {
+  background-color: #242424;
+  padding: 20px;
+  width: 300px;
+}
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.sidebar-header .logo {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.sidebar-nav h3 {
+  margin-bottom: 10px;
+}
+
+.sidebar-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar-nav ul li {
+  margin-bottom: 5px;
+}
+
+.content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.content-header {
+  margin-bottom: 20px;
+}
+
+.message-input {
+  position: relative;
+}
+
+.message-input textarea {
+  width: 100%;
+  height: 150px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  background-color: #303030;
+  color: #fff;
+  resize: none;
+  outline: none;
+}
+
+.mic-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.content-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-actions button {
+  background-color: transparent;
+  border: none;
+  margin-right: 10px;
+}
+
+.content-actions button img {
+  width: 20px;
+  height: 20px;
+}
