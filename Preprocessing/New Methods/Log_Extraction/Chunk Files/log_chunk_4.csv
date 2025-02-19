@@ -1,0 +1,6 @@
+Level,Date and Time,Source,Event ID,Message,Threshold
+Error,06-12-2024 10:29:23,Microsoft-Windows-WindowsUpdateClient,20,nstallation ailure indows failed to install the following update with error x icrosoft our hone,0.8
+Error,05-12-2024 22:23:30,Microsoft-Windows-WER-SystemErrorReporting,1001,he computer has rebooted from a bugcheck he bugcheck was x x x e xfffff dc a x dump was saved in inidump dmp eport d e c b f ad b b db f ae d,0.8
+Error,04-12-2024 15:02:39,Volsnap,36,he shadow copies of volume were aborted because the shadow copy storage could not grow due to a user imposed limit,0.8
+Error,25-11-2024 02:33:19,Microsoft-Windows-WindowsUpdateClient,20,nstallation ailure indows failed to install the following update with error x umulative pdate review for indows ersion for x based ystems,0.8
+Error,24-11-2024 18:07:44,BTHUSB,16,he mutual authentication between the local luetooth adapter and a device with luetooth adapter address e db af failed,0.8

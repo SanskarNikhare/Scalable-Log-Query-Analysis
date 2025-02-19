@@ -1,0 +1,6 @@
+Level,Date and Time,Source,Event ID,Message,Threshold
+Error,13-02-2025 23:26:36,ACPI,13,he embedded controller did not respond within the specified timeout period his may indicate that there is an error in the hardware or firmware or that the is accessing the incorrectly ou should check with your computer manufacturer for an upgraded n some situations this error may cause the computer to function incorrectly,0.8
+Critical,12-02-2025 23:50:52,Microsoft-Windows-Kernel-Power,41,he system has rebooted without cleanly shutting down first his error could be caused if the system stopped responding crashed or lost power unexpectedly,0.6
+Error,12-02-2025 23:51:09,EventLog,6008,he previous system shutdown at on was unexpected,0.8
+Error,09-02-2025 14:06:51,Microsoft-Windows-DeviceAssociationService,3503,evice ssociation ervice detected an endpoint discovery failure,0.8
+Error,08-02-2025 20:43:03,Microsoft-Windows-WindowsUpdateClient,20,nstallation ailure indows failed to install the following update with error x,0.8

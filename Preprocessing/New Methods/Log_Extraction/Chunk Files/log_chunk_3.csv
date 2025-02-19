@@ -1,0 +1,7 @@
+Level,Date and Time,Source,Event ID,Message,Threshold
+Error,08-01-2025 10:15:12,BTHUSB,17,he local luetooth adapter has failed in an undetermined manner and will not be used he driver has been unloaded,0.8
+Error,01-01-2025 02:13:28,Service Control Manager,7000,he team lient ervice service failed to start due to the following error he service did not respond to the start or control request in a timely fashion,0.8
+Error,01-01-2025 02:13:28,Service Control Manager,7009,timeout was reached milliseconds while waiting for the team lient ervice service to connect,0.8
+Error,25-12-2024 12:40:42,Tcpip,4199,he system detected an address conflict for address with the system having network hardware address etwork operations on this system may be disrupted as a result,0.8
+Error,14-12-2024 18:56:08,Microsoft-Windows-WER-SystemErrorReporting,1001,he computer has rebooted from a bugcheck he bugcheck was x x x x xfffff d c a dump was saved in inidump dmp eport d e da a c e c f,0.8
+Error,14-12-2024 18:55:51,volmgr,162,ump file generation succeded,0.8

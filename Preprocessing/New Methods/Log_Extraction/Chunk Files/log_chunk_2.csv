@@ -1,0 +1,7 @@
+Level,Date and Time,Source,Event ID,Message,Threshold
+Error,05-02-2025 00:10:29,Microsoft-Windows-WindowsUpdateClient,20,nstallation ailure indows failed to install the following update with error x icrosoft indows lient eb xperience,0.8
+Error,31-01-2025 20:57:51,BTHUSB,16,he mutual authentication between the local luetooth adapter and a device with luetooth adapter address e failed,0.8
+Error,31-01-2025 15:17:27,Microsoft-Windows-WindowsUpdateClient,20,nstallation ailure indows failed to install the following update with error x hats pp esktop,0.8
+Error,28-01-2025 23:48:01,Microsoft-Windows-WindowsUpdateClient,20,nstallation ailure indows failed to install the following update with error x icrosoft aming pp,0.8
+Error,27-01-2025 18:26:16,Microsoft-Windows-DistributedCOM,10010,he server { } did not register with within the required timeout,0.8
+Error,21-01-2025 16:39:49,Microsoft-Windows-WLAN-AutoConfig,10000,xtensibility odule has failed to start odule ath system mtkihvx dll rror ode,0.8

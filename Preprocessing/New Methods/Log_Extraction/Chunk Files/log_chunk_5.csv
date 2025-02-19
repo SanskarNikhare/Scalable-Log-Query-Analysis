@@ -1,0 +1,5 @@
+Level,Date and Time,Source,Event ID,Message,Threshold
+Error,22-11-2024 20:45:24,Microsoft-Windows-WindowsUpdateClient,20,nstallation ailure indows failed to install the following update with error x icrosoft indows pp untime,0.8
+Error,19-11-2024 12:37:10,Service Control Manager,7043,he indows pdate service did not shut down properly after receiving a preshutdown control,0.8
+Error,19-11-2024 12:31:16,Service Control Manager,7030,he rinter xtensions and otifications service is marked as an interactive service owever the system is configured to not allow interactive services his service may not function properly,0.8
+Error,19-11-2024 12:31:15,Service Control Manager,7023,he etwork ist ervice service terminated with the following error he device is not ready,0.8
