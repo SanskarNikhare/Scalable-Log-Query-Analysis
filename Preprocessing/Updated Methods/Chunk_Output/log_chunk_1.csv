@@ -1,6 +1,0 @@
-Level,Date and Time,Source,Event ID,Original Message,Threshold
-Error,07-10-2024 12:18,Microsoft-Windows-NDIS,10317,"Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {14fda119-c976-471e-a905-cf4cce91a52d}, had event Fatal error  The miniport has failed a power transition to operational power",0.8
-Error,06-10-2024 17:35,Service Control Manager,7000,"The Steam Client Service service failed to start due to the following error  
-The service did not respond to the start or control request in a timely fashion ",0.8
-Error,06-10-2024 17:35,Service Control Manager,7009,A timeout was reached (30000 milliseconds) while waiting for the Steam Client Service service to connect ,0.8
-Error,06-10-2024 16:41,Microsoft-Windows-WindowsUpdateClient,20,Installation Failure  Windows failed to install the following update with error 0x80073D02  9NKSQGP7F2NH-5319275A WhatsAppDesktop ,0.8

@@ -1,9 +1,0 @@
-Level,Date and Time,Source,Event ID,Original Message,Threshold
-Error,03-10-2024 20:31,Volsnap,36,The shadow copies of volume C  were aborted because the shadow copy storage could not grow due to a user imposed limit ,0.8
-Error,02-10-2024 11:15,Service Control Manager,7023,"The McAfee Scheduled Task - (McAfee-Dynamicappdownloader) service terminated with the following error  
-Incorrect function ",0.8
-Error,01-10-2024 21:12,Service Control Manager,7024,"The GoogleUpdater InternalService 130 0 6679 0 (GoogleUpdaterInternalService130 0 6679 0) service terminated with the following service-specific error  
-%%75045",0.8
-Error,01-10-2024 21:12,Service Control Manager,7024,"The GoogleUpdater Service 130 0 6679 0 (GoogleUpdaterService130 0 6679 0) service terminated with the following service-specific error  
-%%75045",0.8
-Critical,01-10-2024 14:52,Microsoft-Windows-Kernel-Power,41,"The system has rebooted without cleanly shutting down first  This error could be caused if the system stopped responding, crashed, or lost power unexpectedly ",0.6

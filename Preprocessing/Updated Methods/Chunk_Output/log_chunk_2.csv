@@ -1,6 +1,0 @@
-Level,Date and Time,Source,Event ID,Original Message,Threshold
-Error,06-10-2024 00:05,Microsoft-Windows-DistributedCOM,10010,The server DolbyLaboratories DolbyAccess_3 24 2820 0_x64__rz1tebttyb220!App AppX1vq60yhpapky3fc2vj8qa51f0d03x54j mca did not register with DCOM within the required timeout ,0.8
-Error,05-10-2024 17:39,Service Control Manager,7031,The GameInput Service service terminated unexpectedly   It has done this 1 time(s)   The following corrective action will be taken in 1000 milliseconds  Restart the service ,0.8
-Error,05-10-2024 14:50,Microsoft-Windows-WindowsUpdateClient,20,Installation Failure  Windows failed to install the following update with error 0x80073D02  9PLH2SV1DVK5-B9ECED6F Glidex ,0.8
-Error,04-10-2024 23:35,Service Control Manager,7009,A timeout was reached (30000 milliseconds) while waiting for the Sync Host_36c9d14 service to connect ,0.8
-Error,04-10-2024 23:35,Microsoft-Windows-DistributedCOM,10010,The server {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54} did not register with DCOM within the required timeout ,0.8
